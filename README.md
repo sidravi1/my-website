@@ -2,4 +2,4 @@
 
 This is a really mindblowing website
 
-Now editign on update-readme branch.
+Updates made on master on GitHub before rebase
